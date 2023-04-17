@@ -1,4 +1,3 @@
-# samrat
 <h1 align="center">Hi👋, I'm Samrat Ghosh</h1>
 <h3 align="center">Trying to enrich myself in a better position...</h3>
 
