@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samratghosh2004&label=Profile%20views&color=0e75b6&style=flat" alt="samratghosh2004" /> </p>
 
-- I’m currently learning **DSA on C++ & Full stack Web-Development**
+- I’m currently focusing on **DSA on C++ & Full stack Web-Development**
 
 - How to reach me **samratgh2004@gmail.com**
 
