@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img width = "20" src= "[[https://media.tenor.com/4BkYeeOwEUgAAAAM/waving-wave.gif](https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif)](https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif)">, I'm Samrat Ghosh</h1>
+<h1 align="center">Hi<img width = "20" src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">, I'm Samrat Ghosh</h1>
 <h3 align="center">Trying to enrich myself in a better position...</h3>
 
 <img align="right" width="270" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
