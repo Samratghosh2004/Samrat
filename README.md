@@ -8,17 +8,15 @@
 - Currently focusing on **DSA on C++ & Full stack Web-Development** :)
  <span class="typing" style="color: aliceblue;"></span>
 
-
--  <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
-
-    <script>
-        var typed = new Typed(".typing",{
-        strings :["Web Developer", "Competitive Programmer"],
-        typeSpeed :160,
-        backSpeed : 80,
-        loop : true
-    })
-    </script>
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+<script>
+      var typed = new Typed(".typing",{
+      strings :["Web Developer", "Competitive Programmer"],
+      typeSpeed :160,
+      backSpeed : 80,
+      loop : true
+   })
+</script>
 
 
 
