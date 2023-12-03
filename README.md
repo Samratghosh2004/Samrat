@@ -7,7 +7,35 @@
 
 - Currently focusing on **DSA on C++ & Full stack Web-Development** :)
 
+# Hi there! 👋 I'm [Your Name]
 
+![Banner Image](url/to/banner-image.jpg)
+
+<div id="typing-container"></div>
+
+<script>
+  // Function to simulate a typing effect
+  function typeWriter(text, i, container) {
+    if (i < text.length) {
+      container.innerHTML += text.charAt(i);
+      i++;
+      setTimeout(() => typeWriter(text, i, container), 50); // Adjust typing speed (milliseconds)
+    }
+  }
+
+  // Welcome message for typing effect
+  const welcomeMessage = "I'm a passionate [Your Profession] based in [Your Location].";
+
+  // Trigger typing effect on page load
+  document.addEventListener("DOMContentLoaded", function () {
+    const typingContainer = document.getElementById("typing-container");
+    typeWriter(welcomeMessage, 0, typingContainer);
+  });
+</script>
+
+I love [Your Interests/Hobbies] and enjoy creating [Your Favorite Tech Stack] projects.
+
+<!-- Rest of your README... -->
 
 - It's my mail **samratgh2004@gmail.com**, use it to reach me
 
