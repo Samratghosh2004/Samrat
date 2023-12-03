@@ -1,43 +1,18 @@
-<h1 align="center">Hi<img width = "25" src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">, I'm Samrat Ghosh</h1>
-<h3 align="center">Trying to enrich myself in a better position...</h3>
-
-<img align="right" width="270" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratghosh2004&label=Profile%20views&color=0e75b6&style=flat" alt="samratghosh2004" /> </p>
-
-- Currently focusing on **DSA on C++ & Full stack Web-Development** :)
-
-# Hi there! 👋 I'm [Your Name]
 
 ![Banner Image](url/to/banner-image.jpg)
 
-<div id="typing-container"></div>
 
-<script>
-  // Function to simulate a typing effect
-  function typeWriter(text, i, container) {
-    if (i < text.length) {
-      container.innerHTML += text.charAt(i);
-      i++;
-      setTimeout(() => typeWriter(text, i, container), 50); // Adjust typing speed (milliseconds)
-    }
-  }
 
-  // Welcome message for typing effect
-  const welcomeMessage = "I'm a passionate [Your Profession] based in [Your Location].";
 
-  // Trigger typing effect on page load
-  document.addEventListener("DOMContentLoaded", function () {
-    const typingContainer = document.getElementById("typing-container");
-    typeWriter(welcomeMessage, 0, typingContainer);
-  });
-</script>
+<h1 align="center">Hi🤝, I'm Samrat Ghosh</h1>
+<h3 align="center">Trying to enrich myself in a better position...</h3>
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratghosh2004&label=Profile%20views&color=0e75b6&style=flat" alt="samratghosh2004" /> </p>
+I’m currently learning DSA on C++ & Full stack Web-Development
 
-I love [Your Interests/Hobbies] and enjoy creating [Your Favorite Tech Stack] projects.
+💬 Ask me about ***react,***
 
-<!-- Rest of your README... -->
-
-- It's my mail **samratgh2004@gmail.com**, use it to reach me
+How to reach me ***samratgh2004@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,10 +22,15 @@ I love [Your Interests/Hobbies] and enjoy creating [Your Favorite Tech Stack] pr
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratghosh2004&show_icons=true&locale=en&layout=compact" alt="samratghosh2004" /></p>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/samrat_ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/samrat_ghosh" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratghosh2004&show_icons=true&locale=en" alt="samratghosh2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratghosh2004&" alt="samratghosh2004" /></p>
+
