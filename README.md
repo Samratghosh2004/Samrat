@@ -6,6 +6,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samratghosh2004&label=Profile%20views&color=0e75b6&style=flat" alt="samratghosh2004" /> </p>
 
 - Currently focusing on **DSA on C++ & Full stack Web-Development** :)
+ <span class="typing" style="color: aliceblue;"></span>
+
+
+-  <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+    <script>
+        var typed = new Typed(".typing",{
+        strings :["Web Developer", "Competitive Programmer"],
+        typeSpeed :160,
+        backSpeed : 80,
+        loop : true
+    })
+    </script>
+
+
 
 - It's my mail **samratgh2004@gmail.com**, use it to reach me
 
