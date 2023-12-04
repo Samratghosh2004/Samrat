@@ -24,7 +24,7 @@ How to reach me ***samratgh2004@gmail.com***
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratghosh2004&show_icons=true&locale=en&layout=compact" alt="samratghosh2004" /></p>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/samrat_ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/samrat_ghosh" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/samrat_ghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/samrat_ghosh" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratghosh2004&show_icons=true&locale=en" alt="samratghosh2004" /></p>
 
