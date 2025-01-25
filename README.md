@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.github.com/Samratghosh2004/Samratghosh2004/main/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.github.com/Samratghosh2004/Samratghosh2004/main/github-snake.svg"/>
-  <img alt="github-snake" src="https://www.github.com/Samratghosh2004/Samratghosh2004/main/github-snake.svg"/>
-</picture>
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
