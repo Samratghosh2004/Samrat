@@ -2,7 +2,7 @@
 <pre>  <h1>      I am Samrat Ghosh</h1> </pre>
 
 # 💫 About Me:
-🔭 Currently in 3rd year B.Tech CSE<br>⚡ Aspiring App Developer and Full stack Web Developer<br>💬 Ask me what you want😕<br> get connect with <link rel="me" href="https://samrat-ghosh.netlify.app/"> <br><br>
+🔭 Currently in 3rd year B.Tech CSE<br>⚡ Aspiring App Developer and Full stack Web Developer<br>💬 Ask me what you want😕<br> get connect with <link alt="me" href="https://samrat-ghosh.netlify.app/"> <br><br>
 
 
 # 💻 Tech Stack:
