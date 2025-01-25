@@ -1,5 +1,5 @@
 ## Hi folks, 
-<span>        I am Samrat Ghosh👋<span>
+<pre>  <h1>      I am Samrat Ghosh👋</h1> </pre>
 
 # 💫 About Me:
 🔭 Currently in 3rd year B.Tech CSE<br>⚡ Aspiring App Developer and Full stack Web Developer<br>💬 Ask me what you want😕<br><br>
